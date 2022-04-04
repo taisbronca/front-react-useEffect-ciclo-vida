@@ -1,0 +1,23 @@
+.container-product {
+    height: 478px;
+    width: 322px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    margin-right: 10px;
+
+    cursor: pointer;
+}
+
+.container-product img {
+    width: 322px;
+    height: 322px;
+    margin-top: 20px;
+}
+
+.container-product:hover {
+    transform: scale(1.1);
+}

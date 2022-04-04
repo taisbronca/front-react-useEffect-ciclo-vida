@@ -1,0 +1,33 @@
+.vertical-line {
+    height: 85%;
+    width: 1px;
+    background-color: #6D6B6B;
+}
+
+.content-prices,
+.content-installments {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-prices {
+    margin-top: 20px;
+}
+
+.content-prices span {
+    color: #ABA0A0;
+    text-decoration: line-through;
+    font-size: 12px;
+    margin-right: 4px;
+}
+
+.content-installments {
+    margin-top: 8px;
+}
+
+.content-installments span {
+    font-size: 12px;
+    margin-left: 4px;
+}
