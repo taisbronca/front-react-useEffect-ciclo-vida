@@ -8,3 +8,5 @@ Boas práticas:
 - Criar um modal que seja preenchido com as informações de um sapato, o modal deve ser exibido quando o sapato for clicado.
 
 ![](https://i.imgur.com/2LQjcRT.png)
+
+###### tags: `hooks` `front-end` `React` `useEffect`
