@@ -1,4 +1,4 @@
-Front | React | useEffect
+## Front | React | useEffect
 
 It's a mini-challenge where I practice using the useEffect hook, the order of component execution, and React's lifecycle methods.
 
